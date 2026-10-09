@@ -1,0 +1,5 @@
+bucket,n,mean_spread,median_spread,p95_spread,adj_vs_base,adj_se
+Surplus (<-1 GW),8606,-1.566,-0.445,37.367,10.117,6.303
++/-1 GW (base),8409,1.69,0.0,35.588,0.0,
+1-2 GW shortfall,1136,3.732,7.11,39.603,2.658,2.2
+>2 GW shortfall,839,3.053,6.59,34.902,15.142,6.595
