@@ -35,11 +35,11 @@ These are associations in public data, not causal effects, and the portfolio is 
 
 <table>
 <tr>
-<td width="50%"><b>1. Forecast error by hour and forecast level</b><br><img src="data/clean/note/ex1.png" alt="Forecast error by hour and forecast quintile"></td>
-<td width="50%"><b>2. Price impact: raw vs adjusted</b><br><img src="data/clean/note/ex2.png" alt="Spread by shortfall bucket and adjusted slope"></td>
+<td width="50%"><b>1. Forecast error by hour and forecast level</b><br></td>
+<td width="50%"><b>2. Price impact: raw vs adjusted</b><br></td>
 </tr>
 <tr>
-<td colspan="2"><b>3. Cost of selling the forecast, and the fragile saving from selling less</b><br><img src="data/clean/note/ex3.png" alt="Imbalance cost and saving by strategy"></td>
+<td colspan="2"><b>3. Cost of selling the forecast, and the fragile saving from selling less</b><br></td>
 </tr>
 </table>
 
